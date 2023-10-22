@@ -12,7 +12,7 @@ import SchoolIcon from '@mui/icons-material/School';
 import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://img.icons8.com/color/480/youtube-play.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon /> },
